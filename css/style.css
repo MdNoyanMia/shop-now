@@ -1,0 +1,200 @@
+/* All commone css start */
+
+* {
+
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+h1 h2 h3 h4 h5 h6 p {
+    padding: 0;
+    margin: 0;
+    line-height: 0.8px;
+}
+
+
+/* All commone css end*/
+
+/* Heading part start  */
+
+#headermain {
+    padding: 10px 0;
+}
+
+.nav-link {
+    color: #000000;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 0 27px !important;
+
+}
+
+.nav-link:hover {
+    color: #B88E2F;
+}
+
+
+.iconce i {
+    padding: 0 20px;
+    color: #000000;
+    font-size: 22px;
+}
+
+/* Heading part end  */
+
+/* bannerpart  start  */
+.bannerimge {
+    background: url(../images/banner2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 130px;
+    padding-bottom: 102px;
+
+}
+
+.bannertext h3 {
+    font-size: 48px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.rowser {
+    display: flex;
+    padding-left: 250px;
+    padding-right: 0;
+
+}
+
+.rowser h6 {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000;
+
+}
+
+p i {
+    text-align: center;
+
+    font-weight: 500;
+    color: #000000;
+    padding: 0 10px;
+
+}
+
+.rowser p {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgba(39, 35, 35, 0.829);
+
+
+}
+
+/* bannerpart  end  */
+
+
+/* Showing part start  */
+#Showing {
+    background: #F9F1E7;
+    height: 100px;
+}
+
+.vorojamla {
+    display: flex;
+
+
+
+}
+
+.imgesr1 img {
+
+    padding-top: 30px;
+
+
+
+}
+
+.jamla {
+padding-top: 30px;
+
+}
+
+.jamla .filtere{
+padding: 0 10px;
+font-size: 20px;
+font-weight: 400;
+    
+    }
+
+.imgesr {
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.txters{
+    padding-top: 30px;
+    padding-left:-20px;
+}
+
+.txters p{
+ border-left: 3px solid #9F9F9F;
+ padding: 10px 25px;
+}
+
+.sespart{
+    padding-top: 30px;
+ 
+}
+.atoojamla{
+    padding-top: 30px;
+}
+
+.kmnlge{
+    display: flex;
+}
+.atoojamla h4{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0 20px;
+
+}
+span{
+    color: #9F9F9F;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0px 10px;
+    background: #FFFFFF;
+}
+.sespart h4{
+    color: #000000;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0 20px;
+}
+
+/* Showing part end  */
+/* Showing part start  */
+/* Heading part end  */
+/* Heading part start  */
+/* Heading part end  */
+/* Heading part start  */
+/* Heading part end  */
+/* Heading part start  */
+/* Heading part end  */

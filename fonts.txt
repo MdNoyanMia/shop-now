@@ -1,0 +1,6 @@
+ font-family: "Nunito Sans", sans-serif; 
+font-family: "Rubik", sans-serif;
+font-family: "Caveat", cursive;   
+font-family: "Montserrat", sans-serif;
+font-family: "Poppins", sans-serif;
+fluid
